@@ -38,9 +38,9 @@ We are dedicated to building **modern UI libraries** that work seamlessly across
 
 ## 📊 Infographic
 
-![Neublick's GitHub stats](https://github-readme-stats.vercel.app/api?username=neublickdev&show_icons=true&bg_color=000000&title_color=FF0000&text_color=FFD700&icon_color=FF0000)
+![Neublick's GitHub stats](https://github-readme-stats.vercel.app/api?username=neublick&show_icons=true&bg_color=000000&title_color=FF0000&text_color=FFD700&icon_color=FF0000)
 
-[![Neublick Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=neublickdev&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&show_icons=true&bg_color=000000&title_color=FF0000&text_color=FFD700&icon_color=FF0000)](https://github.com/neublickdev)
+[![Neublick Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=neublick&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&show_icons=true&bg_color=000000&title_color=FF0000&text_color=FFD700&icon_color=FF0000)](https://github.com/neublick)
 
 ### 📫 How to reach Neublick
 
