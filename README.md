@@ -46,13 +46,13 @@ We are dedicated to building **modern UI libraries** that work seamlessly across
 
 <div display="flex">
   <a href="https://www.linkedin.com/company/neublick/">
-    <img src="https://img.shields.io/badge/linkedin-FFD700.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/linkedin-FFD700.svg?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
   </a>
   <a href="mailto:neublick@outlook.com">
-    <img src="https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/>
   </a>
   <a href="https://instagram.com/neublickdev">
-    <img src="https://img.shields.io/badge/Instagram-FFD700?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-FFD700?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"/>
   </a>
 </div>
 
