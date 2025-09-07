@@ -2,8 +2,8 @@
 
 <div align="center">
 
-# 👁️ **Neublick**
-### _Fresh Berlin-based Team Building Cross-Framework & Cross-Platform UI Libraries_
+# 👾 **Neublick**
+### _Fresh Berlin-based Team Developing Games & Reviving Nostalgic Classics_
 
 ![Free](https://img.shields.io/badge/Free-Yes-FFD700?style=for-the-badge&logoColor=white)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-FFD700?style=for-the-badge&logoColor=white)
@@ -15,24 +15,26 @@
 
 ## 🌌 About Neublick
 **Neublick** is a **fresh and dynamic team based in Berlin, Germany**.  
-We are dedicated to building **modern UI libraries** that work seamlessly across **different frameworks and platforms**.  
+We are dedicated to **developing original computer games** and **reviving old nostalgic titles** for **modern devices and platforms**.  
 
 🚀 Our mission:  
-- Develop **cross-platform UI component libraries**  
-- Build **framework-agnostic UI solutions** for developers  
-- Create **innovative and practical UI toolkits**  
-- Support **web, desktop, and mobile ecosystems**  
-- Deliver **open-source**, developer-friendly tools  
+- Develop **new and engaging PC and console games**  
+- Rebuild and remaster **classic retro games** for today’s hardware  
+- Support **multi-platform releases** (PC, consoles, and mobile)  
+- Keep the **spirit of nostalgia alive** with modern technology  
+- Deliver **open-source projects** and community-driven experiences  
 
 ---
 
 ## 🛠️ Projects
-| Project                | Description                                                      | Status          | Main Language |
-|------------------------|------------------------------------------------------------------|-----------------|---------------|
-| **NeublickUI-Core**    | Core library for UI rendering across multiple frameworks          | 🚧 In Progress   | TypeScript / C++ |
-| **NeublickUI-React**   | React-based wrapper for developers                                | 🚧 In Progress   | TypeScript / React |
-| **NeublickUI-DotNet**  | .NET Core version for C# developers                               | 🚧 In Progress   | C# |
-| **UI Tools & Demos**   | Practical libraries and demo applications built by Neublick       | 🚧 In Progress   | Multiple |
+| Project                   | Description                                                                 | Status          | Main Language |
+|---------------------------|-----------------------------------------------------------------------------|-----------------|---------------|
+| **RetroRevive-Core**      | A framework to remaster and port classic DOS/Windows games to modern systems | 🚧 In Progress   | C++ / C# |
+| **PixelLegacy**           | A curated collection of **2D platformers & arcade shooters** rebuilt for PC & consoles | 🚧 In Progress   | Unity / Unreal |
+| **Neublick RPG Revival**  | Remaster of **classic turn-based RPGs** with modern graphics & sound         | 🚧 In Progress   | C++ / Unreal |
+| **ShooterX Nostalgia**    | Fast-paced **retro-style FPS remake** for PC and VR platforms                | 🚧 In Progress   | Unreal Engine |
+| **Neublick Originals**    | Brand-new **indie titles** blending retro aesthetics with modern gameplay    | 🚧 In Progress   | Multiple |
+| **Tools & Mods**          | Utilities and community mods for extending and customizing classic game experiences | 🚧 In Progress   | Multiple |
 
 ---
 
@@ -40,7 +42,7 @@ We are dedicated to building **modern UI libraries** that work seamlessly across
 
 ![Neublick's GitHub stats](https://github-readme-stats.vercel.app/api?username=neublick&show_icons=true&bg_color=000000&title_color=FF0000&text_color=FFD700&icon_color=FF0000)
 
-[![Neublick Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=neublick&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&show_icons=true&bg_color=000000&title_color=FF0000&text_color=FFD700&icon_color=FF0000)](https://github.com/neublick)
+[![Neublick Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=neublick&hide=html,scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,dockerfile&show_icons=true&bg_color=000000&title_color=FF0000&text_color=FFD700&icon_color=FF0000)](https://github.com/neublick)
 
 ### 📫 How to reach Neublick
 
